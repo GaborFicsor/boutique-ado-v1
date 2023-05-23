@@ -28,7 +28,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', '8000-gaborficsor-boutiqueado-doas53n8cri.ws-eu97.gitpod.io']
 
-
 # Application definition
 
 INSTALLED_APPS = [
